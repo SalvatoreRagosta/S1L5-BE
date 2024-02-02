@@ -1,0 +1,4 @@
+/Users/sasy/Desktop/S1L5 BE/obj/Debug/net8.0/S1L5 BE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasy/Desktop/S1L5 BE/obj/Debug/net8.0/S1L5 BE.AssemblyInfoInputs.cache
+/Users/sasy/Desktop/S1L5 BE/obj/Debug/net8.0/S1L5 BE.AssemblyInfo.cs
+/Users/sasy/Desktop/S1L5 BE/obj/Debug/net8.0/S1L5 BE.csproj.CoreCompileInputs.cache
